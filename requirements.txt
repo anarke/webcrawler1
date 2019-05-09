@@ -2,7 +2,7 @@ Step #1: Install Selenium by running command: pip install selenium
 
 Step #2: Install chromedriver.exe: Download chromedriver.exe in accordance with your PC or Mac at http://chromedriver.storage.googleapis.com/index.html
 
-(download chromedriver_linux64.zip, chromedriver_mac64.zip or chromedriver_win32.zip:
+(Download chromedriver_linux64.zip, chromedriver_mac64.zip or chromedriver_win32.zip:
 http://chromedriver.storage.googleapis.com/index.html?path=2.42/)
 
 Step #3: Unzip the file and place chromedriver.exe under Program Files (x86) > Google > Chrome > Application.
